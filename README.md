@@ -17,7 +17,7 @@ A Python toolkit for visualizing Taylor and Maclaurin series approximations alon
 
 Clone this repository to your local machine:
 ```
-git clone https://github.com/your-username/TaylorSeriesVisualizer.git
+git clone https://github.com/Arkay92/TaylorSeriesVisualizer.git
 ```
 
 Navigate into the project directory:
